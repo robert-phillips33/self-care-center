@@ -1,8 +1,10 @@
+### Link
+[Check out selfCareCenter here!](https://robert-phillips33.github.io/self-care-center/)
 
 ### Abstract:
 [//]: <> (Briefly describe what you built and its features. What problem is the app solving? How does this application solve that problem?)
 
-I was able to build an app that randomly selects mantras or affirmations from two separate arrays based on user input, and posts them when the user clicks the receive message button! The app will also let you delete messages that users do not like, and the messages are removed from their respective array / will not be reposted.
+I was able to build an app that randomly selects mantras or affirmations from two separate arrays based on user input, and posts them when the user clicks the receive message button! The app will also let you delete messages that users do not like, and the messages are removed from the data model / will not be reposted.
 
 ### Installation Instructions:
 [//]: <> (What steps does a person have to take to get your app cloned down and running?)
