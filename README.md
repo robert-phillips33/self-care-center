@@ -7,14 +7,6 @@ I was able to build an app that randomly selects mantras or affirmations from tw
 ### Installation Instructions:
 [//]: <> (What steps does a person have to take to get your app cloned down and running?)
 
-Simply access the application online, or via my github! If the app is cloned down from the main branch, it will be fully functional and available to be played with.
-
-### Preview of App:
-[//]: <> (Provide ONE gif or screenshot of your application - choose the "coolest" piece of functionality to show off.)
-
-(I'm not certain, but my last attempt at including a screenshot may have had something to do with the projects inability to be deployed. I'm going to hold off this time until that is figured out.)
-
-With that being said, I really enjoyed the functionality to delete a message that the user doesn't like. The coding process to get there was made much simpler by what I learned in our previous duo project, and getting to flex that a little bit with an even cleaner approach felt really great! 
 
 ### Context:
 [//]: <> (Give some context for the project here. How long did you have to work on it? How far into the Turing program are you?)
@@ -32,7 +24,7 @@ Just me on this one! I did quite a bit of research to handle the stuff I was unf
 ### Learning Goals:
 [//]: <> (What were the learning goals of this project? What tech did you work with?)
 
-The project was our first stab at a ground-up build including the HTML as well as the CSS, not to meantion reinforcing our JS scoding to build dynamic applications. 
+The project was our first stab at a ground-up build including the HTML as well as the CSS, not to meantion reinforcing our JS coding to build dynamic applications. 
 
 
 ### Wins + Challenges:
